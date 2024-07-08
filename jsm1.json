@@ -358,8 +358,8 @@
 {"key":"UpYun","name":"云搜UP┃🍭","type":3,"api":"csp_UpYun","jar": "./jar/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YunPanOne","name":"云盘ON┃🍭","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
 
-{"key":"米搜","name":"夸克MS┃🍭","type":3,"api":"csp_MIPanSo","jar": "./jar/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext": {Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"夸搜","name":"夸克PS┃🍭","type":3,"api":"csp_PanSearch","jar": "./jar/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext": {Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"米搜","name":"夸克MS┃🍭","type":3,"api":"csp_MIPanSo","jar": "./jar/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"夸搜","name":"夸克PS┃🍭","type":3,"api":"csp_PanSearch","jar": "./jar/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"Funletu","name":"夸克QP┃🍭","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json",
 			"style": {
 				"type": "list",
