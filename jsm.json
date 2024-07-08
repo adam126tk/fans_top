@@ -442,7 +442,7 @@
       "name": "live.m3u",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/my.txt",
+      "url": "https://gitdl.cn/raw.githubusercontent.com/lxhfans/zby/main/my.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -450,7 +450,7 @@
       "name": "live.m3u2",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/ms.txt",
+      "url": "https://gitdl.cn/raw.githubusercontent.com/lxhfans/zby/main/ms.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -458,7 +458,7 @@
       "name": "live.m3u3",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/ty.txt",
+      "url": "https://gitdl.cn/raw.githubusercontent.com/lxhfans/zby/main/ty.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -466,7 +466,7 @@
     {
       "name": "live.m3u4",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/cy.txt",
+      "url": "https://gitdl.cn/raw.githubusercontent.com/lxhfans/zby/main/cy.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -475,7 +475,7 @@
     {
       "name": "live.m3u5",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/tvkj.txt",
+      "url": "https://gitdl.cn/raw.githubusercontent.com/lxhfans/zby/main/tvkj.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -484,7 +484,7 @@
     {
       "name": "live.m3u6",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/tvkj1.txt",
+      "url": "https://gitdl.cn/raw.githubusercontent.com/lxhfans/zby/main/tvkj1.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -493,7 +493,7 @@
     {
       "name": "live.lvcha",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/lvcha/main/tv.txt",
+      "url": "https://gitdl.cn/raw.githubusercontent.com/lxhfans/lvcha/main/tv.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -502,7 +502,7 @@
      {
       "name": "live.lvcha1",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/lvcha/main/live.txt",
+      "url": "https://gitdl.cn/raw.githubusercontent.com/lxhfans/lvcha/main/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -511,7 +511,7 @@
      {
       "name": "live.lvcha2",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/lvcha/main/ywb.txt",
+      "url": "https://gitdl.cn/raw.githubusercontent.com/lxhfans/lvcha/main/ywb.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -521,7 +521,7 @@
       "name": "live.lvcha3",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/lvcha/main/ty.txt",
+      "url": "https://gitdl.cn/raw.githubusercontent.com/lxhfans/lvcha/main/ty.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
@@ -530,7 +530,7 @@
       "name": "live.lvcha4",
       "type": 1,
       "playerType": 1,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/lvcha/main/a.txt",
+      "url": "https://gitdl.cn/raw.githubusercontent.com/lxhfans/lvcha/main/a.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
